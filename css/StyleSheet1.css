@@ -826,23 +826,26 @@ th {
 
     @media (prefers-color-scheme: dark) {
         body {
-            background-color: #4a6182;
+            background-color: #4a6182; 
+            color: #ccc; 
         }
 
         nav {
-            background-color: #4a6182;
+            background-color: #4a6182; 
         }
 
         .sidebar a {
-            color: white;
+            color: white; 
         }
 
             .sidebar a:hover {
-                color: #782f2f;
+                color: #782f2f; 
             }
+
         th {
-            
+            background-color: #4a6182;
         }
     }
+
 }
 
