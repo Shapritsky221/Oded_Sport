@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oded_sport2024", "Oded_sport2024\Oded_sport2024.csproj", "{185F2856-30AB-4461-A019-588C34685762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{185F2856-30AB-4461-A019-588C34685762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185F2856-30AB-4461-A019-588C34685762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185F2856-30AB-4461-A019-588C34685762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185F2856-30AB-4461-A019-588C34685762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B1ADF66-843D-41DF-A860-D6DB0A272121}
+	EndGlobalSection
+EndGlobal
