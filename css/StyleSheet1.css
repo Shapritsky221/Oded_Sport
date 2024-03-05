@@ -823,6 +823,7 @@ th {
             font-size: 12px
         }
     }
+<<<<<<< HEAD
 
     @media (prefers-color-scheme: dark) {
         body {
@@ -849,3 +850,6 @@ th {
 
 }
 
+=======
+}
+>>>>>>> parent of 3ba3635 (commit 4)

@@ -1,0 +1,5 @@
+﻿Build started at 7:11 PM...
+1>------ Build started: Project: oded_sport, Configuration: Debug Any CPU ------
+1>  oded_sport -> C:\Users\Ariel\source\repos\oded_sport\oded_sport\bin\oded_sport.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 7:11 PM and took 00.166 seconds ==========
